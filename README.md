@@ -2,7 +2,7 @@
 
 ### Technical Lead & Architect | Modernizing Legacy into Cloud-Native Reality
 
-I am a hands-on technical leader with over 20 years of experience architecting high-scale, resilient systems. I specialize in the **.NET ecosystem**, **Azure cloud-native design**, and the integration of **Generative AI** and **Modern Web Frameworks** into enterprise workflows.
+I am a hands-on technical leader with over 17 years of experience architecting high-scale, resilient systems. I specialize in the **.NET ecosystem**, **Azure cloud-native design**, and the integration of **Generative AI** and **Modern Web Frameworks** into enterprise workflows.
 
 ---
 
