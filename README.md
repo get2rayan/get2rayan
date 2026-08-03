@@ -18,16 +18,6 @@ I am a hands-on technical leader with over 17 years of experience architecting h
 
 ---
 
-## 🚀 Key Impact & Achievements
-
-*   **AI-Forward Engineering:** Developed a Python-based RAG workflow utilizing **Azure AI Vector Search** and **OpenAI** to process and query complex datasets.
-*   **Modern Frontend Delivery:** Engineered responsive, high-performance interfaces using **TypeScript** and **React**, ensuring type safety and scalable component architecture.
-*   **Containerization & Orchestration:** Utilized **Docker** and **Kubernetes** to deploy and manage microservices, ensuring efficient scaling and application delivery.
-*   **Event-Driven Systems:** Architected a high-scale fulfillment system using **Azure Event Hubs** and **Functions**, optimizing for seasonal surges with **Auto-Inflate** strategies.
-*   **Performance Optimization:** Decreased API response times by **38%** through asynchronous programming and the **Task Parallel Library (TPL)**.
-
----
-
 ## 🏗️ Featured Projects
 
 ### 📱 [Retail Chat Engine](https://github.com/get2rayan/retail-chain-ai)
